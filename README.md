@@ -40,5 +40,6 @@ bun run dev
 ```
 
 View the invoice page by going to `http://localhost:3000/invoice` after running dev.
+Also View the no viewer invoice template by going to `http://localhost:3000/invoice-no-viewer` after running dev.
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
