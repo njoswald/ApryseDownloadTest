@@ -1,3 +1,4 @@
+# This is a public repository that showcases the download issue occuring after installing pdftron/webviewer@10.6.0
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -38,38 +39,6 @@ yarn dev
 bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
+View the invoice page by going to `http://localhost:3000/invoice` after running dev.
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
